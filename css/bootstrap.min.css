@@ -11333,3 +11333,45 @@ a.text-dark:focus {
 .toast .close:not(:disabled):not(.disabled):focus {
     color: #000
 }
+
+.location-text {
+    font-style: italic;
+    font-size: 14px;
+    color: #999;
+    line-height: 16px;
+    float: right;
+}
+
+.date-text {
+    font-style: italic;
+    font-size: 14px;
+    color: black;
+    line-height: 16px;
+    float: left;
+    padding-right: 5px;
+}
+
+.job-title {
+    font-size: 16px;
+    color: black;
+    line-height: 16px;
+    float: left;
+    padding-right: 5px;
+}
+
+.section-title {
+    font-style: bold;
+    font-size: 20px;
+    color: black;
+    line-height: 16px;
+    float: left;
+    padding-right: 5px;
+}
+
+.job-descr {
+    font-size: 14px;
+    color: black;
+    line-height: 16px;
+    float: left;
+    padding-right: 5px;
+}
